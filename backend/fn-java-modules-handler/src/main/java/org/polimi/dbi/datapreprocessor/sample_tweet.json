@@ -1,0 +1,96 @@
+{
+	"created_at": "Wed Dec 09 17:06:57 +0000 2015",
+	"id": 674636361035575296,
+	"id_str": "674636361035575296",
+	"full_text": "FBI: Jews, Not Muslims, Are Greatest Victims of Religiously Targeted Hate Crimes in America @cnsnews #tcot #ccot https://t.co/B86vM90Crm",
+	"truncated": false,
+	"display_text_range": [0, 136],
+	"entities": {
+		"hashtags": [{
+			"text": "tcot",
+			"indices": [101, 106]
+		}, {
+			"text": "ccot",
+			"indices": [107, 112]
+		}],
+		"symbols": [],
+		"user_mentions": [{
+			"screen_name": "cnsnews",
+			"name": "CNSNews.com",
+			"id": 34927577,
+			"id_str": "34927577",
+			"indices": [92, 100]
+		}],
+		"urls": [{
+			"url": "https://t.co/B86vM90Crm",
+			"expanded_url": "http://cnsnews.com/commentary/mike-gonzalez/fbi-jews-not-muslims-are-greatest-victims-religiously-targeted-hate-crimes#.VmhfpyyAqzo.twitter",
+			"display_url": "cnsnews.com/commentary/mik\u2026",
+			"indices": [113, 136]
+		}]
+	},
+	"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+	"in_reply_to_status_id": null,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_user_id": null,
+	"in_reply_to_user_id_str": null,
+	"in_reply_to_screen_name": null,
+	"user": {
+		"id": 2514365660,
+		"id_str": "2514365660",
+		"name": "Michael Morris",
+		"screen_name": "Michael_BMo",
+		"location": "",
+		"description": "Commentary Editor for CNSNews with aspirations to help the oppressed & fight for liberty in the U.S. & abroad.  Tweets and comments are my own.",
+		"url": null,
+		"entities": {
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 673,
+		"friends_count": 454,
+		"listed_count": 25,
+		"created_at": "Thu May 22 03:39:09 +0000 2014",
+		"favourites_count": 479,
+		"utc_offset": -14400,
+		"time_zone": "Eastern Time (US & Canada)",
+		"geo_enabled": false,
+		"verified": false,
+		"statuses_count": 7984,
+		"lang": "en",
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "131516",
+		"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+		"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+		"profile_background_tile": true,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/899664127483940864/2w0avanF_normal.jpg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/899664127483940864/2w0avanF_normal.jpg",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/2514365660/1400731545",
+		"profile_link_color": "990000",
+		"profile_sidebar_border_color": "FFFFFF",
+		"profile_sidebar_fill_color": "EFEFEF",
+		"profile_text_color": "333333",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": null,
+		"follow_request_sent": null,
+		"notifications": null,
+		"translator_type": "none"
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"is_quote_status": false,
+	"retweet_count": 0,
+	"favorite_count": 0,
+	"favorited": false,
+	"retweeted": false,
+	"possibly_sensitive": false,
+	"lang": "en"
+}
